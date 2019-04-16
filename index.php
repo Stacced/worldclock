@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        
+        <meta name="viewport" content="width=device-width">
         <title>World Clock</title>
         <link href="style.css" rel="stylesheet" type="text/css"/>
     </head>
